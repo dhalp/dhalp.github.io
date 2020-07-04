@@ -29,7 +29,7 @@ twitter_username: daytradedan1
 github_username:  dhalp
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
