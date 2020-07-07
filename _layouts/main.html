@@ -6,7 +6,7 @@ layout: default
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.cover-img}}{% endif %}" alt="{{site.site-name}}"></a>
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.cover-img %}{{site.cover-img}}{% endif %}" alt="{{site.site-name}}"></a>
       </div>
       <div class="author-name">{{site.site-name}}</div>
       <p>{{site.about-author}}</p>
@@ -24,7 +24,6 @@ layout: default
         {% if site.social-facebook %}
           <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         {% else %}
-
         {% endif %}
         {% if site.social-github %}
           <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
