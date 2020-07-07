@@ -17,21 +17,43 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Dan's Day
-email: dan@dhalp.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my website.  I will share my thoughts on things that interest me.
-  For example, expect: daytrading, technology, and shenanigans.
+title: Dan Land
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: daytradedan1
-github_username:  dhalp
+site-twitter: #if your site has a twitter account, enter it here
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# Author Settings
+author: Dan Halpern # add your name
+site-name: Dan Land
+site-img: david-freeman.jpg # add your photo
+about-author: I am Dan.  Welcome to my head.  Lets see how the world looks from in here.  # add description
+social-twitter: daytradedan1
+social-facebook: # add your Facebook handle
+social-github: dhalp # add your Github handle
+social-linkedin: dhalp
+social-email: dan@dhalp.com
+email: dan@dhalp.com
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jemoji
+#  - jekyll-feed
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
