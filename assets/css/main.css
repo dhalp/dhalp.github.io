@@ -962,10 +962,10 @@ table tfoot td {
   -webkit-border-radius: 20px;
           border-radius: 30px;
   -webkit-transition: -webkit-transform 0.35s;
-  transition: -webkit-transform 0.35s;
+          transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
-  transition: transform 0.35s;
-  transition: transform 0.35s, -webkit-transform 0.35s;
+      transition: transform 0.35s;
+      transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
 .about img:hover {
@@ -1141,12 +1141,18 @@ footer .copyright {
           transform: translate(0px, -2px);
   -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-  background-color: #D2FDFFEA;
+  background-color: #D2FDFF;
+}
+
+.post:active{
+  color: #263959;
 }
 
 .post .post-content {
   padding: 1rem;
   width: 70%;
+  text-decoration: none;
+  color: #263959;
 }
 
 .post .post-content .post-date,
@@ -1158,9 +1164,6 @@ footer .copyright {
   margin: 0 0 10px;
   font-size: 30px;
   font-weight: 400;
-}
-
-.post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
@@ -1170,28 +1173,6 @@ footer .copyright {
   margin-top: 0;
 }
 
-a.older-posts, a.newer-posts {
-  font-size: 18px;
-  display: inline-block;
-  color: #515151;
-  -webkit-transition: -webkit-transform .2s;
-  transition: -webkit-transform .2s;
-  -o-transition: transform .2s;
-  transition: transform .2s;
-  transition: transform .2s, -webkit-transform .2s;
-}
-
-a.older-posts:hover {
-  -webkit-transform: translateX(5px);
-      -ms-transform: translateX(5px);
-          transform: translateX(5px);
-}
-
-a.newer-posts:hover {
-  -webkit-transform: translateX(-5px);
-      -ms-transform: translateX(-5px);
-          transform: translateX(-5px);
-}
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
@@ -1240,7 +1221,7 @@ a.newer-posts:hover {
             justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #F4976CAC;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
