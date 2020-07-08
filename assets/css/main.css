@@ -1105,7 +1105,6 @@ footer .copyright {
   margin: 0;
 }
 
-
 .post {
   width: 100%;
   max-width: 100%;
@@ -1144,16 +1143,13 @@ footer .copyright {
   background-color: #D2FDFF;
 }
 
-.post:active{
-  color: #263959;
-}
-
 .post .post-content {
   padding: 1rem;
   width: 70%;
   text-decoration: none;
   color: #263959;
 }
+
 
 .post .post-content .post-date,
 .post .post-content .post-words {
