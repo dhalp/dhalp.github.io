@@ -1248,11 +1248,17 @@ a.newer-posts:hover {
     margin: 10px auto auto;
   }
   .about img {
-    width: 100px;
-    height: 100px;
-    -webkit-border-radius: 100%;
-            border-radius: 100%;
+    width: 175px;
+    height: 117px;
+    -webkit-border-radius: 20px;
+            border-radius: 30px;
     margin-bottom: 10px;
+    background-color: #ffffff;
+  }
+  .about .cover-author-image {
+    width: 175px;
+    height: 117px;
+    background-color: #ffffff;
   }
   .content-box {
     padding: 20px 10px;
