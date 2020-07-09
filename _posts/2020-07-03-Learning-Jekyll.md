@@ -3,6 +3,7 @@ layout: post
 title:  "Learning Jekyll"
 date:   2020-07-03 07:51:00
 categories: jekyll update
+tags: [Holidays, Hawaii]
 ---
 
 Hello!
