@@ -1,16 +1,17 @@
 @media only screen and (max-width: 992px) {
-  .post {
+  .post-link {
     width: 48%;
     max-width: 100%;
-    margin: 0 0.9% 1.5%;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    margin: 0 0 .9% 1.5%;
+    flex-direction: column;
+    flex-flow: column wrap;
   }
-  .post .post-thumbnail {
+  .post {
     width: 100%;
+    max-width: 100%;
+    margin: 0 0.9% 1.5%;
+    flex-direction: column;
+    flex-flow: column wrap;
   }
   .post .post-content {
     width: 100%;
