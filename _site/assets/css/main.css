@@ -240,7 +240,15 @@ footer .copyright { font-size: 14px; text-align: center; margin: 0; }
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content { padding: 20px; background-color: #D2FDFF; }
 
-.header-page { text-align: center; margin: 10px 0; }
+.trade-summary { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex-inline; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-border-radius: 5px; border-radius: 5px; float: right; top: 30px; right: 30px; margin: 10px; padding: 10px 10px 10px 10px; background-color: #B4DFE5; }
+
+.trade-summary .left-trade { margin-left: 0; padding-left: 10px; float: left; }
+
+.trade-summary .right-trade { margin-left: 0; padding-left: 15px; padding-right: 10px; float: right; }
+
+.trade-summary li { list-style-type: none; }
+
+.header-page { text-align: left; margin: 10px 0; }
 
 .header-page .page-title { font-weight: 400; margin: 0 0 10px; line-height: 1.3; }
 

@@ -3,8 +3,47 @@
   background-color: #D2FDFF;
 }
 
+.trade-summary {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex-inline;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+  float: right;
+  top: 30px;
+  right: 30px;
+  margin: 10px;
+  padding: 10px 10px 10px 10px;
+  background-color: #B4DFE5;
+
+  .left-trade {
+    margin-left: 0;
+    padding-left: 10px;
+    float: left;
+  }
+  .right-trade {
+    margin-left: 0;
+    padding-left: 15px;
+    padding-right: 10px;
+    float: right;
+  }
+  li {
+    list-style-type: none;
+  }
+}
+
+
+
+
 .header-page {
-  text-align: center;
+  text-align: left;
   margin: 10px 0;
   .page-title {
     font-weight: 400;

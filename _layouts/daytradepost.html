@@ -19,8 +19,21 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
-      <div id="tvcharttest">
-        <!--- This is where my chart goes --->
+      <div class="trade-summary">
+        <ul class="left-trade">
+          <li class="ticker">Ticker:</li>
+          <li>PnL:</li>
+          <li>Date:</li>
+          <li>Pattern:</li>
+          <li>Position Size:</li>
+        </ul>
+        <ul class="right-trade">
+          <li class="ticker">{{page.ticker}}</li>
+          <li>{{page.pnl}}</li>
+          <li>{{page.trade-date}}</li>
+          <li>{{page.pattern}}</li>
+          <li>{{page.position-size}}</li>
+        </ul>
       </div>
       {{content | markdownify}}
       <div class="page-footer">

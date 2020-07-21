@@ -2,13 +2,14 @@
 layout: daytradepost
 title:  "Trade: AAPL for 10%"
 date:   2020-07-12 07:51:00
+trade-date:  2020-07-12
 categories: jekyll update
 tags: [Trades, Winners]
 ticker: AAPL
 pnl: 500
 pnlperc: 5%
 pattern: Breakout
-daytradenum: 2
+position-size: 500
 ---
 
 Hello!
