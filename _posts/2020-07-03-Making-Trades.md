@@ -1,13 +1,11 @@
 ---
 layout: daytradepost
-title:  "Trade: AAPL for 10%"
+title:  "Trade: MTP"
 date:   2020-07-12 07:51:00
 trade-date:  2020-07-12
-categories: jekyll update
 tags: [Trades, Winners]
 ticker: AAPL
 pnl: 500
-pnlperc: 5%
 pattern: Breakout
 position-size: 500
 ---
@@ -17,3 +15,15 @@ Hello!
 Welcome to my blog.  I hope to share my thoughts and insights as stumble through life hoping that I fail upwards.  As I continue through this journey, I hope to share my thoughts on Jekyll, technology, and day trading.
 
 Please buckle up, and subscribe.  We have are just getting started.
+
+Lorizzle ipsum shit sit you son of a bizzle, consectetuer we gonna chung elit. Nullam crunk velit, phat volutpizzle, dang dope, gravida vel, arcu. Pellentesque eget tortor. Sizzle erizzle. Daahng dawg izzle pot shizznit i saw beyonces tizzles and my pizzle went crizzle tempus own yo'. Maurizzle pellentesque nibh away turpizzle. Away tortizzle. I saw beyonces tizzles and my pizzle went crizzle eleifend nizzle get down get down. In shit habitasse platea dictumst. Dawg dapibus. Curabitur dope fo shizzle my nizzle, pretizzle mah nizzle, da bomb crunk, black vitae, nunc. Sure suscipit. Integer semper ma nizzle sizzle break it down.
+
+That's the shizzle nec turpis izzle leo gizzle molestie. Izzle vestibulizzle dizzle phat fo shizzle. Quisque crazy ornare magna. Boom shackalack the bizzle, nisl nec bibendizzle i'm in the shizzle, away dolor vestibulizzle ligula, izzle auctor justo ghetto quizzle augue. Maecenizzle gizzle elizzle sit amet eros break it down sagittizzle. Pizzle fo shizzle pede izzle lacizzle. In rhoncizzle pizzle mofo. Lorem shiznit dolizzle sizzle gangster, consectetizzle i'm in the shizzle elizzle. Phasellus stuff shizzle my nizzle crocodizzle, posuere sit its fo rizzle, facilisizzle sizzle, get down get down mattizzle, i'm in the shizzle. Curabitur semper faucibizzle brizzle. Ut dizzle bizzle. Nunc sed risus hizzle diam accumsizzle egestizzle. Quisque pot metus for sure nunc. Aenizzle sodalizzle, my shizz quizzle varius lacinia, bling bling diam crunk felizzle, stuff ullamcorpizzle pot nisl dizzle nisi. Vivamizzle leo quizzle, aliquizzle black amizzle, ghetto vitae, nizzle pulvinizzle, get down get down.
+
+Fizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle lorem, shizzlin dizzle break yo neck, yall, pizzle egizzle, vehicula tellivizzle, dizzle. Etizzle ma nizzle leo a sem hendrerit mattizzle. Pellentesque interdizzle crazy izzle eros commodo ullamcorper. Bling bling doggy dang ligula. Morbi that's the shizzle. Maecenizzle i saw beyonces tizzles and my pizzle went crizzle owned ac dolizzle gizzle dizzle. Fo shizzle my nizzle yo mamma viverra urna. That's the shizzle sollicitudin massa quis purus. Morbi brizzle ligula black amet get down get down. Nizzle lobortis enizzle vitae arcu. Cizzle socizzle shiz penatibizzle et shiznit funky fresh parturient fo shizzle, nascetizzle sure fo shizzle.
+
+Nunc commodo boofron izzle urna. Nullam congue. Vestibulizzle mofo laorizzle bow wow wow. Owned that's the shizzle amizzle purus shiz leo volutpizzle dang. Suspendisse funky fresh. Nunc sem vitae purizzle shut the shizzle up aliquizzle. Sizzle gravida gizzle ante. In interdizzle erat izzle sem. Quisque mammasay mammasa mamma oo sa. Shizzle my nizzle crocodizzle uhuh ... yih! tellizzle ghetto dizzle mollis ma nizzle. Nulla facilisi. Ma nizzle quizzle shizzlin dizzle a massa molestie pulvinar. Nullizzle sagittis boom shackalack boofron rizzle. Shizznit sempizzle crunk sizzle tellizzle. Pimpin' pretium purus bling bling yippiyo. Tellivizzle rutrizzle rhoncus purus.
+
+Doggy dignissizzle nisi quizzle molestie molestie. Sizzle ligula mi, yo mamma izzle, shizznit fo shizzle mah nizzle fo rizzle, mah home g-dizzle, molestie izzle, i'm in the shizzle. Sed dope. Owned shizzle my nizzle crocodizzle. Mammasay mammasa mamma oo sa bling bling uhuh ... yih!, shiznit sed, things brizzle, fo shizzle izzle, dolor. For sure mah nizzle dolor. Maecenas vizzle shizzle my nizzle crocodizzle. Cras at nibh. Fo shizzle consequizzle. Donec dignissizzle yo vizzle arcu. Ut break it down sizzle tellivizzle sizzle yo mamma eleifend. Boofron dope, bizzle bling bling vestibulizzle fringilla, dope libero tempor erizzle, sizzle elementizzle break yo neck, yall nunc my shizz pede. Dope vestibulizzle fo shizzle my nizzle dolizzle. Aliquizzle dope volutpat. In we gonna chung, dui ut ultricies consequat, massa i'm in the shizzle gravida black, hizzle sagittizzle enizzle metizzle sed nibh.
+
+Shut the shizzle up interdizzle. Suspendisse boom shackalack. Maecenizzle nisl. Etizzle elit ante, ullamcorper quizzle, ullamcorper izzle, mofo et, gizzle. Morbi bow wow wow neque. That's the shizzle felizzle. Crazy nonummy, phat vitae fringilla cursus, i'm in the shizzle mi varius felis, gizzle laorizzle fo shizzle my nizzle enizzle vel augue. Curabitur consequizzle away mofo elit. Fusce for sure dolizzle dizzle libero. Crizzle placerizzle, metus vel dang lacinia, sheezy eros phat yippiyo, bling bling boofron fo est sed gizzle.
