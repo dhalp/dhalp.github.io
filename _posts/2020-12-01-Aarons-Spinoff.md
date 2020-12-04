@@ -4,6 +4,7 @@ title:  "Aaron's Spinoff Analysis"
 date:   2020-12-03
 ticker: AAN
 trade-date:  2020-12-05
+attractive-price: $17.7
 portfolio-percent:  10
 tags: [Trades, Spinoff]
 ---
@@ -25,7 +26,7 @@ The first thing to investigate here is "_where do the company's existing managem
 Messers Robinson and Wall may be the two individuals most capable of assessing both companies.  The fact that Robinson ran the pre-acquisition Progressive and continued to running the combined organization indicates that he understands that he sees greater potential in the retail spinoff.  As the CFO of the combined companies, we would expect Mr Wall to also have a unique understanding of the two companies' resulting financial situation.  I think this is the weakest buy signal we will discuss.
 
 ### Financial Statements & Business Quality Analysis
-The strength of Aaron's SpinCo's value proposition can be seen in the pro-forma (as a mater of form - i.e. as if spun-off) financial statements.  The Book Value of Aaron's SpinCo as of Sep 30th (most recent quarter end) was ~726m.  At this estimate, the price to book (P/B) value of Aaron's comes out to 616/726 = 0.84 as of Dec 2nd 2020.  The proposition gets more attractive as we move to analyze the cash flows.  Reported Net Earnings for the Nine Months ended Sep 30th are reported as $(269m).  But we know better than to take this number at face value.
+The strength of Aaron's SpinCo's value proposition can be seen in the pro-forma (as a mater of form - i.e. as if spun-off) financial statements.  **The Book Value of Aaron's SpinCo as of Sep 30th (most recent quarter end) was ~$726m**, this amounts to $21.49/shr.  At this estimate, the price to book (P/B) value of Aaron's comes out to 616/726 = 0.84 as of Dec 2nd 2020.  The proposition gets more attractive as we move to analyze the cash flows.  Reported Net Earnings for the Nine Months ended Sep 30th are reported as $(269m).  But we know better than to take this number at face value.
 
 Management decided to revalue Aaron's Goodwill account in March when stores were closed, and the future prospects of the Corona Virus were most uncertain.  The impairment of Goodwill accounted for a whopping $447m operating expense on the statement of earnings! Looking deeper into the Statement of Cash Flows, we find a more compelling story: cash flows from Operating Activities totaled $337m, and the total change in cash and cash equivalents was $384m in the first 3 quarters of 2020 as opposed to cash flows of $132m in over the same period in 2019.
 Cash flows accounted for more than half of the enterprise value of Aaron's!  Now, because GAAP income statements are accrual based, we must be careful about provisions for bad debt and depreciation of unrecoverable leased merchandise.  However the author is not materially concerned since we have established a comfortable buffer.
@@ -34,4 +35,14 @@ Cash flows provide us with two ways at investigating the earnings yield of Aaron
 
 While the current state of finances does seems attractive, we have learned from Warren Buffet that it is similarly important to identify strong business plans / management as well.  Aarons management has set out on a much needed cost savings initiative.  In the first quarter of 2020 the firm initiated a real estate optimization program wherein they are consolidating geographic footprints of neighboring stores to dramatically reduce expenses.  Thus far this has resulted in the closure and consolidation of 88 company owned/operated stores, with plans to close an additional 35 stores over the next 3-6 months.  Long term, management expects to close approximately 300 (approximately 1/5th of all stores) additional stores over the next 3-4 years.  
 
-The strategy passes the sniff test.  While Aarons.com continues to grow at prodigious rates the stores are increasingly used as warehouses to ship online purchases.  Moreover, the retail operating expense are clearly one of the larger cost centers for the company.  Based on historic closures rates compared to topline sales, I believe that management has the ability to undertake this task with minimal reduction in revenues.  Based on the projections provided in the Roadshow presentation, investors can conservatively expect a decrease in revenues in the first year of operation followed by modest gains YoY following.
+The strategy passes the sniff test.  While Aarons.com continues to grow at prodigious rates the stores are increasingly used as warehouses to ship online purchases.  Moreover, the retail operating expense are clearly one of the larger cost centers for the company.  Based on historic closures rates compared to top-line sales, I believe that management has the ability to undertake this task with minimal reduction in revenues.  Based on the projections provided in the Roadshow presentation, investors can conservatively expect a decrease in revenues in the first year of operation followed by modest gains YoY following.  However this _does not mean that profits will decline_.  Based on what we know about the corporate strategy its safe to believe that profits will stay consistent or climb modestly based on the more significant reduction in cost of revenues.
+
+I will conclude this section with a lesson from Warren Buffet and Charlie Munger on downsizing:  _It is no fun being the village blacksmith when the car comes along, however Munger can not name a single business ruined by downsizing; he could think of many ruined by bloat._
+
+### Valuation By Industry Comps
+Finally, we will investigate the value of Aarons based on its industry peers.  I feel it is important to emphasize **industry comps do not indicate the intrinsic value of a firm.  This methodology is susceptible to overvaluations of the market or industry at large.  Therefore it should only be used in concert with other more conservative valuation approaches.**
+
+| Company       | P/E Ratio     | P/B Ratio     | P/FCF Ratio   |
+| :---          |:----          | :---          | :----         |
+| Header        | Title         | Here's this   | |
+| Paragraph     | Text          | And more      | |
