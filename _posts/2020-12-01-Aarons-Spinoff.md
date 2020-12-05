@@ -9,7 +9,7 @@ portfolio-percent:  10
 tags: [Trades, Spinoff]
 ---
 
-Aaron's Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in a 2:1 ratio which was set to value the retail segment at $1.3bln and the VLTO segment at $3bln.  Somewhat unusually, AAN will be the _spinoff_ component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO looks component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PROG) returns the two segments to their separate pre-2014 formats.  
+Aaron's Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in a 2:1 ratio which roughly values the retail segment at $1.3bln and the VLTO segment at $3bln.  Somewhat unusually, AAN will be the _spinoff_ component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO looks component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PROG) returns the two segments to their separate pre-2014 formats.  
 
 The _when issued_ trading eventually moved the value of the firms quite significantly.  With PRG trading at $59.45 just one day (Dec 2nd) after being publicly available on the NYSE and AAN closing the day at $18.25 management was clearly able to unlock additional value from the PRG unit.  At these closing prices PRG has a market capitalization of around 5% less than the original parent while AAN is now valued at just $616m.
 
@@ -42,7 +42,31 @@ I will conclude this section with a lesson from Warren Buffet and Charlie Munger
 ### Valuation By Industry Comps
 Finally, we will investigate the value of Aarons based on its industry peers.  I feel it is important to emphasize **industry comps do not indicate the intrinsic value of a firm.  This methodology is susceptible to overvaluations of the market or industry at large.  Therefore it should only be used in concert with other more conservative valuation approaches.**
 
-| Company       | P/E Ratio     | P/B Ratio     | P/FCF Ratio   |
-| :---          |:----          | :---          | :----         |
-| Header        | Title         | Here's this   | |
-| Paragraph     | Text          | And more      | |
+*Values all in Thousands
+
+| Company               | Market Cap    | EBIT          | Book Value of Equity    | Cash From Ops    |
+| :---                  |:----          | :---          | :----                   | :----            |
+| Rent-A-Center	        | $1,930,000	| $171,300	    | $542,337	              | $296,226         |
+| Big Lots (Est.) <sup>1</sup> | $1,840,000	| $231,036.8| $1,328,160	      | $8,528           |
+| First Cash	        | $2,840,000	| $100,592	    | $1,243,926	          | $177,366         |
+| Conns (Est.) <sup>2</sup> | $404,690	| $83,040	    | $518,586	              | $305,000         |
+| Wayfair	            | $23,800,000	| $161,592	    | $(1,459,586)            | $1,209,988       |
+| Target	            | $87,650,000	| $3,816,000	| $13,319,000	          | $7,044,000       |
+| Aarons	            | $641,820	    | $55,498	    | $620,581	              | $337,238         |
+
+---
+
+| Company               | P/E Ratio     | P/B Ratio     | Ops Cash Yield   |
+| :---                  |:----          | :---          | :----            |
+| Rent-A-Center	        | 11.27	        | 3.56	        | 0.15             |
+| Big Lots (Est.)	    | 7.96	        | 1.39	        | 0.005            |
+| First Cash	        | 28.23	        | 2.28	        | 0.06             |
+| Conns (Est.)	        | 4.87	        | 0.78	        | 0.75             |
+| Wayfair	            | 147.28	    | -16.31	    | 0.05             |
+| Target	            | 22.97	        | 6.58	        | 0.08             |
+| Aarons	            | 11.56	        | 1.03	        | 0.53             |
+
+
+<sup>1</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results exclude $463m sale of Distribution Centers
+
+<sup>2</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results rely on 2019 EBIT due to negative figures in 2020 from abnormal activity and recording

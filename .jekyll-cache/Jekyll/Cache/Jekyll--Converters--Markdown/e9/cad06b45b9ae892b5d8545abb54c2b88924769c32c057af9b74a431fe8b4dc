@@ -1,142 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Aaron's Spinoff Analysis - Dan Land</title>
-  <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
-    <meta content="Dan Land" property="og:site_name">
-  
-    <meta content="Aaron's Spinoff Analysis" property="og:title">
-  
-  
-    <meta content="article" property="og:type">
-  
-  
-    <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-" property="og:description">
-  
-  
-    <meta content="http://localhost:4000/Aarons-Spinoff/" property="og:url">
-  
-  
-    <meta content="2020-12-03T00:00:00-07:00" property="article:published_time">
-    <meta content="http://localhost:4000/about/" property="article:author">
-  
-  
-    <meta content="http://localhost:4000/assets/img/" property="og:image">
-  
-  
-    
-  
-  
-    
-    <meta content="Trades" property="article:tag">
-    
-    <meta content="Spinoff" property="article:tag">
-    
-  
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@">
-    <meta name="twitter:creator" content="@daytradedan1">
-  
-    <meta name="twitter:title" content="Aaron's Spinoff Analysis">
-  
-  
-    <meta name="twitter:url" content="http://localhost:4000/Aarons-Spinoff/">
-  
-  
-    <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-">
-  
-  
-    <meta name="twitter:image:src" content="http://localhost:4000/assets/img/">
-  
-
-	<meta name="description" content="">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta property="og:image" content="">
-	<link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicon/apple-touch-icon-144x144.png">
-	<!-- Chrome, Firefox OS and Opera -->
-	<meta name="theme-color" content="#263959">
-	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#263959">
-	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700|Lato:300,400,700&display=swap" rel="stylesheet">
-	<!-- Font Awesome -->
-	<link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
-	<!-- Styles -->
-	<link rel="stylesheet" href="/assets/css/main.css">
-</head>
-
-<body>
-  <div class="wrapper">
-    <aside class="sidebar">
-  <header>
-    <div class="about">
-      <div class="cover-author-image">
-        <a href="/"><img src="/assets/img/danlandv4.png" alt="Dan Land"></a>
-      </div>
-      <div class="author-name">Dan Land</div>
-      <p>UNDER CONSTRUCTION Welcome to my head.  Lets see how the world looks from in here.</p>
-    </div>
-  </header> <!-- End Header -->
-  <footer>
-    <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
-      <ul>
-        
-          <li><a href="https://twitter.com/daytradedan1" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        
-        
-        
-        
-          <li class="github"><a href="http://github.com/dhalp" target="_blank"><i class="fa fa-github"></i></a></li>
-        
-        
-          <li class="linkedin"><a href="https://in.linkedin.com/in/dhalp" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-        
-        
-          <li class="email"><a href="mailto:dan@dhalp.com"><i class="fa fa-envelope-o"></i></a></li>
-        
-      </ul>
-    </section> <!-- End Section Contact -->
-    <div class="copyright">
-      <p>2020 &copy; Dan Halpern</p>
-    </div>
-  </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
-<div class="content-box clearfix">
-  <article class="article-page">
-  <div class="page-content">
-    
-    
-    <div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">Aaron's Spinoff Analysis</h1>
-        <div class="page-date"><span>2020, Dec 03&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-      </header>
-      <div class="trade-summary">
-        <ul class="left-trade">
-          <li class="ticker">Ticker:</li>
-          <li>Date:</li>
-          <li>Attractive Price:</li>
-          <li>Portfolio %:</li>
-        </ul>
-        <ul class="right-trade">
-          <li class="ticker">AAN</li>
-          <li>2020-12-05</li>
-          <li>$17.7</li>
-          <li>10</li>
-        </ul>
-      </div>
-      <p>Aaron’s Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in a 2:1 ratio which roughly values the retail segment at $1.3bln and the VLTO segment at $3bln.  Somewhat unusually, AAN will be the <em>spinoff</em> component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO looks component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PROG) returns the two segments to their separate pre-2014 formats.</p>
+I"�/<p>Aaron’s Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in a 2:1 ratio which roughly values the retail segment at $1.3bln and the VLTO segment at $3bln.  Somewhat unusually, AAN will be the <em>spinoff</em> component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO looks component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PROG) returns the two segments to their separate pre-2014 formats.</p>
 
 <p>The <em>when issued</em> trading eventually moved the value of the firms quite significantly.  With PRG trading at $59.45 just one day (Dec 2nd) after being publicly available on the NYSE and AAN closing the day at $18.25 management was clearly able to unlock additional value from the PRG unit.  At these closing prices PRG has a market capitalization of around 5% less than the original parent while AAN is now valued at just $616m.</p>
 
@@ -236,7 +98,9 @@ Cash flows accounted for more than half of the enterprise value of Aaron’s!  N
   </tbody>
 </table>
 
-<hr />
+<p><sup>1</sup>: Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results exclude $463m sale of Distribution Centers</p>
+
+<p><sup>2</sup>: Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results rely on 2019 EBIT due to negative figures in 2020 from abnormal activity and recording</p>
 
 <table>
   <thead>
@@ -292,42 +156,4 @@ Cash flows accounted for more than half of the enterprise value of Aaron’s!  N
     </tr>
   </tbody>
 </table>
-
-<p><sup>1</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results exclude $463m sale of Distribution Centers</p>
-
-<p><sup>2</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results rely on 2019 EBIT due to negative figures in 2020 from abnormal activity and recording</p>
-
-      <p>*I am not a professional, consult with a financial professional before investing your money</p>
-      <div class="page-footer">
-        <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text=Aaron's Spinoff Analysis&url=http://localhost:4000/Aarons-Spinoff/" title="Share on Twitter" rel="nofollow" target="_blank">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <!--<a href="https://facebook.com/sharer.php?u=http://localhost:4000/Aarons-Spinoff/" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>--->
-          <a href="https://linkedin.com/shareArticle?mini=true&url=http://localhost:4000/Aarons-Spinoff/" title="Share on Linkedin" rel="nofollow" target="_blank">LinkedIn <i class="fa fa-linkedin-square"></i></a>
-        </div>
-        <div class="page-tag">
-          
-            <a href="/tags#Trades" class="tag">&#35; Trades</a>
-          
-            <a href="/tags#Spinoff" class="tag">&#35; Spinoff</a>
-          
-        </div>
-      </div>
-    </div> <!-- End Wrap Content -->
-  </div> <!-- End Page Content -->
-</article> <!-- End Article Page -->
-
-</div>
-
-  </div>
-
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', '', 'auto');
-  ga('send', 'pageview');
-</script> <!-- End Analytics -->
-
-</body>
-</html>
+:ET
