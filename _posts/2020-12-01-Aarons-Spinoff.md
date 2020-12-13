@@ -4,16 +4,16 @@ title:  "Aaron's Spinoff Analysis"
 date:   2020-12-03
 ticker: AAN
 trade-date:  2020-12-05
-attractive-price: $17.7
+attractive-price: $17.2
 portfolio-percent:  10
 tags: [Trades, Spinoff]
 ---
 
-Aaron's Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in a 2:1 ratio which roughly values the retail segment at $1.3bln and the VLTO segment at $3bln.  Somewhat unusually, AAN will be the _spinoff_ component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO looks component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PROG) returns the two segments to their separate pre-2014 formats.  
+Aaron's Holdings (originally trading as AAN) is a retail Lease to Own (LTO) firm with two main business segments: Virtual Lease to Own, and Brick and Mortar Retail Lease To Own.  Earlier this year management announced their intention to spinoff their retail business from their virtual least to own segment in all stock 2:1 ratio.  Somewhat unusually, AAN will be the _spinoff_ component.  Aarons created a holding company for the SpinCo and will rename the RemainCo to Progressive concurrently with the spinoff transaction.  At the onset, the virtual LTO component looks more attractive.  Since the acquisition of Progressive Finance Holdings in 2014 for $700m.  The Progressive segment has continued to grow like gangbusters with an average annual growth rate of around 25% compounded.  The recent activity separating AAN from Progressive (PRG) returns the two segments to their separate pre-2014 formats.  However, the predictable earnings, large target market, and management's conservative business plan make AAN a hidden gem.
 
-The _when issued_ trading eventually moved the value of the firms quite significantly.  With PRG trading at $59.45 just one day (Dec 2nd) after being publicly available on the NYSE and AAN closing the day at $18.25 management was clearly able to unlock additional value from the PRG unit.  At these closing prices PRG has a market capitalization of around 5% less than the original parent while AAN is now valued at just $616m.
+The _when issued_ trading eventually moved the value of the firms quite significantly.  With PRG trading at $59.45 just one day (Dec 2nd) after being publicly available on the NYSE and AAN closing the day at $18.25 management was clearly able to unlock additional value from the PRG unit.  At these closing prices PRG has a market capitalization of around 5% less than the original parent while AAN is now valued at just $575m.
 
-Despite progressive's high annualized growth rate, I believe there is a compelling case to invest in the Aaron's retail spinoff.  I will present an analysis covering the following approaches:
+I believe there is a compelling case to invest in the Aaron's retail spinoff.  I will present an analysis covering the following approaches:
 1. Insider Movement / Activity
 2. Cash Flows & Business Quality Analysis
 3. Industry Comps
@@ -26,7 +26,7 @@ The first thing to investigate here is "_where do the company's existing managem
 Messers Robinson and Wall may be the two individuals most capable of assessing both companies.  The fact that Robinson ran the pre-acquisition Progressive and continued to running the combined organization indicates that he understands that he sees greater potential in the retail spinoff.  As the CFO of the combined companies, we would expect Mr Wall to also have a unique understanding of the two companies' resulting financial situation.  I think this is the weakest buy signal we will discuss.
 
 ### Financial Statements & Business Quality Analysis
-The strength of Aaron's SpinCo's value proposition can be seen in the pro-forma (as a mater of form - i.e. as if spun-off) financial statements.  **The Book Value of Aaron's SpinCo as of Sep 30th (most recent quarter end) was ~$726m**, this amounts to $21.49/shr.  At this estimate, the price to book (P/B) value of Aaron's comes out to 616/726 = 0.84 as of Dec 2nd 2020.  The proposition gets more attractive as we move to analyze the cash flows.  Reported Net Earnings for the Nine Months ended Sep 30th are reported as $(269m).  But we know better than to take this number at face value.
+The strength of Aaron's SpinCo's value proposition can be seen in the pro-forma (as a mater of form - i.e. as if spun-off) financial statements.  **The Book Value of Aaron's SpinCo as of Sep 30th (most recent quarter end) was ~$620m**, this amounts to $18.35/shr.  At this estimate, the price to book (P/B) value of Aaron's comes out to 600/620 = 0.96 as of Dec 2nd 2020.  The proposition gets more attractive as we move to analyze the cash flows.  Reported Net Earnings for the Nine Months ended Sep 30th are reported as $(269m).  But we know better than to take this number at face value.
 
 Management decided to revalue Aaron's Goodwill account in March when stores were closed, and the future prospects of the Corona Virus were most uncertain.  The impairment of Goodwill accounted for a whopping $447m operating expense on the statement of earnings! Looking deeper into the Statement of Cash Flows, we find a more compelling story: cash flows from Operating Activities totaled $337m, and the total change in cash and cash equivalents was $384m in the first 3 quarters of 2020 as opposed to cash flows of $132m in over the same period in 2019.
 Cash flows accounted for more than half of the enterprise value of Aaron's!  Now, because GAAP income statements are accrual based, we must be careful about provisions for bad debt and depreciation of unrecoverable leased merchandise.  However the author is not materially concerned since we have established a comfortable buffer.
@@ -44,29 +44,31 @@ Finally, we will investigate the value of Aarons based on its industry peers.  I
 
 *Values all in Thousands
 
-| Company               | Market Cap    | EBIT          | Book Value of Equity    | Cash From Ops    |
-| :---                  |:----          | :---          | :----                   | :----            |
-| Rent-A-Center	        | $1,930,000	| $171,300	    | $542,337	              | $296,226         |
-| Big Lots (Est.) <sup>1</sup> | $1,840,000	| $231,036.8| $1,328,160	      | $8,528           |
-| First Cash	        | $2,840,000	| $100,592	    | $1,243,926	          | $177,366         |
-| Conns (Est.) <sup>2</sup> | $404,690	| $83,040	    | $518,586	              | $305,000         |
-| Wayfair	            | $23,800,000	| $161,592	    | $(1,459,586)            | $1,209,988       |
-| Target	            | $87,650,000	| $3,816,000	| $13,319,000	          | $7,044,000       |
-| Aarons	            | $641,820	    | $55,498	    | $620,581	              | $337,238         |
+| Company               | Market Cap    | EBIT          | Book Value of Equity | Cash From Ops | P/E Ratio     | P/B Ratio   | Ops Cash Yield   |
+| :---                  |:----          | :---          | :----                | :----         |:----          | :---        | :----            |
+| Rent-A-Center	        | $1,930,000	| $171,300	    | $542,337	           | $296,226      | 11.27	       | 3.56        | 0.15             |
+| Big Lots (Est.) <sup>1</sup> | $1,840,000	| $231,036.8| $1,328,160	       | $471,581      | 7.96          | 1.39        | 0.256            |
+| First Cash	        | $2,840,000	| $100,592	    | $1,243,926	       | $177,366      | 28.23	       | 2.28        | 0.06             |
+| Conns (Est.) <sup>2</sup> | $404,690	| $83,040	    | $518,586	           | $305,000      | 4.87          | 0.78        | 0.75             |
+| Wayfair	            | $23,800,000	| $161,592	    | $(1,459,586)         | $1,209,988    | 147.28        | -16.31      | 0.05             |
+| Target	            | $87,650,000	| $3,816,000	| $13,319,000	       | $7,044,000    | 22.97	       | 6.58        | 0.08             |
+| Aarons	            | $641,820	    | $55,498	    | $620,581	           | $337,238      | 11.56	       | 1.03        | 0.53             |
 
----
+These financials provide us insight into how the market values companies compared to their financials.  We can apply this to understand what the valuation of Aarons might be if it was given the same market treatment across any given metric.  The following table demonstrates various discounts or premiums that Aarons is trading at compared to a given peer.
 
-| Company               | P/E Ratio     | P/B Ratio     | Ops Cash Yield   |
-| :---                  |:----          | :---          | :----            |
-| Rent-A-Center	        | 11.27	        | 3.56	        | 0.15             |
-| Big Lots (Est.)	    | 7.96	        | 1.39	        | 0.005            |
-| First Cash	        | 28.23	        | 2.28	        | 0.06             |
-| Conns (Est.)	        | 4.87	        | 0.78	        | 0.75             |
-| Wayfair	            | 147.28	    | -16.31	    | 0.05             |
-| Target	            | 22.97	        | 6.58	        | 0.08             |
-| Aarons	            | 11.56	        | 1.03	        | 0.53             |
+| Company               | P/E Implied Value of AAN     | P/B Implied Value of AAN | Ops Cash Yield Implied Value of AAN  |
+| :---                  |:----                         | :---                     | :----                                |
+| Rent-A-Center	        | $625,284	                   | $2,208,445               | $2,197,205                           |
+| Big Lots (Est.)	    | $441,992                     | $859,738                 | $1,315,825                           |
+| First Cash	        | $1,566,867	               | $1,416,845               | $5,399,885                           |
+| Conns (Est.)	        | $270,466                     | $484,284                 | $447,468                             |
+| Wayfair	            | $8,173,996                   | $---                     | $6,633,342                           |
+| Target	            | $1,274,738	               | $4,083,935               | $4,196,325                           |
+| **Aarons (Implied)**  | **$2,058,890**               | **$1,810,649**           | **$3,365,008**                       |
 
 
-<sup>1</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results exclude $463m sale of Distribution Centers
+<sup>1</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results include $463m sale of Distribution Centers _how many times can they do that??_
 
 <sup>2</sup> Earnings and cashflow estimated by multiplying operating results ((Q1+Q2)*1.6).  Results rely on 2019 EBIT due to negative figures in 2020 from abnormal activity and recording
+
+There is clearly a huge upside potential. Considering the book value of Aarons already includes accounting for bad debt in the assets assigned to leases, I believe this is a conservative and attractive opportunity with generous reward opportunity compared to the risk.
