@@ -1,6 +1,6 @@
 .wrap-content {
   padding: 20px;
-  background-color: #D2FDFF;
+  background-color: var(--post-bg);
 }
 
 .trade-summary {
@@ -21,7 +21,7 @@
   right: 30px;
   margin: 10px;
   padding: 10px 10px 10px 10px;
-  background-color: #B4DFE5;
+  background-color: var(--highlight-post-bg);
 
   .left-trade {
     margin-left: 0;
@@ -40,7 +40,11 @@
 }
 
 
-
+.table-full{
+  th{
+    background-color: var(--highlight-post-bg)
+  }
+}
 
 .header-page {
   text-align: center;

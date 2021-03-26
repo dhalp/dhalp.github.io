@@ -1,3 +1,5 @@
+:root { --post-bg: #D2FDFF; --highlight-post-bg: #B4DFE5; --sidebar-bg: #F4976CAC; }
+
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document ========================================================================== */
 /** 1. Correct the line height in all browsers. 2. Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS. */
@@ -161,9 +163,9 @@ table td, table.blueTable th { border: 1px solid #aaa; padding: 3px 2px; }
 
 table tbody td { font-size: 13px; }
 
-table tr:nth-child(even) { background: #adbecc; }
+table tr:nth-child(even) { background: var(--highlight-post-bg); }
 
-table thead { background: #a9c4d1; background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1)); background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); border-bottom: 1px solid #8c8c8c; }
+table thead { background: --highlight-post-bg; background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1)); background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%); border-bottom: 1px solid #8c8c8c; }
 
 table thead th { font-size: 14px; font-weight: bold; color: #fff; border-left: 1px solid #d0e4f5; }
 
@@ -187,7 +189,9 @@ table tfoot td { font-size: 14px; }
 #tvchart { background-color: green; }
 
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
-.sidebar { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; position: fixed; top: 0; left: 0; bottom: 0; width: 240px; height: 100%; padding: 20px 10px; background-color: #F4976CAC; }
+:root { --post-bg: #D2FDFF; --highlight-post-bg: #B4DFE5; --sidebar-bg: #F4976CAC; }
+
+.sidebar { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; position: fixed; top: 0; left: 0; bottom: 0; width: 240px; height: 100%; padding: 20px 10px; background-color: var(--sidebar-bg); }
 
 .about { margin: 0 0 40px; text-align: center; }
 
@@ -225,9 +229,9 @@ footer .copyright { font-size: 14px; text-align: center; margin: 0; }
 
 .post-link { width: 100%; max-width: 100%; }
 
-.post { width: 100%; max-width: 100%; margin-bottom: 1.5rem; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: stretch; -webkit-align-items: stretch; -ms-flex-align: stretch; align-items: stretch; min-height: 11rem; -webkit-border-radius: 10px; border-radius: 10px; overflow: hidden; -webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15); box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15); background-color: #B4DFE5EA; }
+.post { width: 100%; max-width: 100%; margin-bottom: 1.5rem; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: stretch; -webkit-align-items: stretch; -ms-flex-align: stretch; align-items: stretch; min-height: 11rem; -webkit-border-radius: 10px; border-radius: 10px; overflow: hidden; -webkit-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15); box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15); background-color: var(--highlight-post-bg); }
 
-.post:hover { -webkit-transform: translate(0px, -2px); -ms-transform: translate(0px, -2px); transform: translate(0px, -2px); -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2); box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2); background-color: #D2FDFF; }
+.post:hover { -webkit-transform: translate(0px, -2px); -ms-transform: translate(0px, -2px); transform: translate(0px, -2px); -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2); box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2); background-color: var(--post-bg); }
 
 .post .post-content { padding: 1rem; width: 70%; text-decoration: none; color: #263959; }
 
@@ -238,15 +242,17 @@ footer .copyright { font-size: 14px; text-align: center; margin: 0; }
 .post .post-content p { margin-top: 0; }
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
-.wrap-content { padding: 20px; background-color: #D2FDFF; }
+.wrap-content { padding: 20px; background-color: var(--post-bg); }
 
-.trade-summary { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex-inline; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-border-radius: 5px; border-radius: 5px; float: right; top: 30px; right: 30px; margin: 10px; padding: 10px 10px 10px 10px; background-color: #B4DFE5; }
+.trade-summary { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex-inline; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-border-radius: 5px; border-radius: 5px; float: right; top: 30px; right: 30px; margin: 10px; padding: 10px 10px 10px 10px; background-color: var(--highlight-post-bg); }
 
 .trade-summary .left-trade { margin-left: 0; padding-left: 10px; float: left; }
 
 .trade-summary .right-trade { margin-left: 0; padding-left: 15px; padding-right: 10px; float: right; }
 
 .trade-summary li { list-style-type: none; }
+
+.table-full th { background-color: var(--highlight-post-bg); }
 
 .header-page { text-align: center; margin: 10px 0; }
 

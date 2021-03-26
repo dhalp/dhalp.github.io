@@ -1,5 +1,11 @@
 ---
 ---
+:root {
+  --post-bg: #D2FDFF;
+  --highlight-post-bg: #B4DFE5;
+  --sidebar-bg: #F4976CAC;
+}
+
 @import 'normalize';
 /*@import '_syntax';
 @import '_variables';*/
@@ -91,11 +97,11 @@ table tbody td {
 }
 
 table tr:nth-child(even) {
-  background: #adbecc;
+  background: var(--highlight-post-bg);
 }
 
 table thead {
-  background: #a9c4d1;
+  background: --highlight-post-bg;
   background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1));
   background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
   background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
